@@ -1,0 +1,9 @@
+:e termpaper.tex
+:tabnew title.tex
+:tabnew abstract-ru.tex
+:tabnew abstract-en.tex
+:tabnew contents.tex
+:tabnew introduction.tex
+:tabnew conclusion.tex
+:tabnew fish-diplo.tex
+gt
