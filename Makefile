@@ -13,8 +13,8 @@ all: build view
 
 build:
 	@$(TEX) $(FILE_TEX)
-	@$(TEX) $(FILE_TEX)
 	@$(BIB) $(FILE_AUX)
+	@$(TEX) $(FILE_TEX)
 	@$(TEX) $(FILE_TEX)
 
 view:
