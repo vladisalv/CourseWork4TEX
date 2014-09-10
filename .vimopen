@@ -1,10 +1,8 @@
 :e termpaper.tex
-:tabnew title.tex
 :tabnew introduction.tex
 :tabnew part1.tex
 :tabnew part2.tex
 :tabnew part3.tex
 :tabnew part4.tex
 :tabnew conclusion.tex
-:tabnew ../tmpDis/part1.tex
 gt
